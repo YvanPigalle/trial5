@@ -101,7 +101,7 @@ void RandomArray (double [] numbers)
         }
 }
 
-void PrintArray(double [] numbers)
+void PrintArray (double [] numbers)
 {
     Console.Write(" | ");
     for (int i = 0; i < numbers.Length; i++)
